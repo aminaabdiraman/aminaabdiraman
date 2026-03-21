@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Hi, I'm Amina
+ I'm Amina
 
 Data / BI Analyst focused on transforming data into actionable business insights.
 I combine a finance background with analytical thinking to solve real-world problems using data.
