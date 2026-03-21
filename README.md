@@ -43,4 +43,4 @@ E-mail: amina.asilkhankyzy@mail.ru
 
 LinkedIn: www.linkedin.com/in/amina-abdiraman-624a64326
 
-
+Telegram: @m1nam1nd
