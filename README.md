@@ -36,8 +36,11 @@ To become a Data Analyst / BI Analyst in a strong tech or international company,
 and grow into a specialist who makes real impact through data.
 
 Contact Me:
+
 Almaty, Kazakhstan
+
 E-mail: amina.asilkhankyzy@mail.ru
+
 LinkedIn: www.linkedin.com/in/amina-abdiraman-624a64326
 
 
