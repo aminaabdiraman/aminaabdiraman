@@ -21,6 +21,7 @@ Aspiring data professional with a focus on Data Analysis, Data Engineering, and 
 I have hands-on experience working with real datasets, building ETL pipelines, performing exploratory data analysis, and developing basic machine learning models. I enjoy turning raw data into structured insights and supporting data-driven decision making.
 
 Tech Stack:
+
 Python (Pandas, NumPy, Matplotlib, Seaborn), EDA, feature engineering
 
 SQL (SELECT, JOIN, GROUP BY, агрегатные функции)
