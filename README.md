@@ -14,26 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm Amina
+I'm Amina
 
-Data / BI Analyst focused on transforming data into actionable business insights.
-I combine a finance background with analytical thinking to solve real-world problems using data.
-I help turn messy data into clear decisions:
-- Analyze datasets to uncover trends and patterns
-- Build dashboards that tell a story, not just show numbers
-- Clean, transform, and structure raw data
-- Apply basic machine learning models for predictions
+Aspiring data professional with a focus on Data Analysis, Data Engineering, and Machine Learning. I combine a finance background with strong analytical thinking to work across the full data lifecycle — from data collection and processing to analysis and modeling.
+
+I have hands-on experience working with real datasets, building ETL pipelines, performing exploratory data analysis, and developing basic machine learning models. I enjoy turning raw data into structured insights and supporting data-driven decision making.
 
 Tech Stack:
-- Python (pandas, numpy, scikit-learn,seaborn,matplotlib)
-- SQL
-- Excel
-- Power BI 
-- Google Sheets
+Python (Pandas, NumPy, Matplotlib, Seaborn), EDA, feature engineering
+SQL (SELECT, JOIN, GROUP BY, агрегатные функции)
+ETL-процессы, очистка и трансформация данных
+Machine Learning (Logistic Regression, Linear Regression, K-Means, оценка моделей)
+Power BI (DAX, Power Query, дашборды, KPI)
+Excel / Google Sheets (формулы, сводные таблицы, анализ данных)
 
 Career Goal:
-To become a Data Analyst / BI Analyst in a strong tech or international company,
-and grow into a specialist who makes real impact through data.
+To grow as a Data Analyst / Data Engineer / Machine Learning specialist and contribute to scalable, data-driven solutions in a tech or fintech environment
 
 Contact Me:
 
