@@ -22,10 +22,15 @@ I have hands-on experience working with real datasets, building ETL pipelines, p
 
 Tech Stack:
 Python (Pandas, NumPy, Matplotlib, Seaborn), EDA, feature engineering
+
 SQL (SELECT, JOIN, GROUP BY, агрегатные функции)
+
 ETL-процессы, очистка и трансформация данных
+
 Machine Learning (Logistic Regression, Linear Regression, K-Means, оценка моделей)
+
 Power BI (DAX, Power Query, дашборды, KPI)
+
 Excel / Google Sheets (формулы, сводные таблицы, анализ данных)
 
 Career Goal:
