@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Amina
 
-Aspiring data professional with a focus on Data Analysis, Data Engineering, and Machine Learning. I combine a finance background with strong analytical thinking to work across the full data lifecycle — from data collection and processing to analysis and modeling.
+Aspiring data professional with a focus on Data Analysis, Data Engineering, and Machine Learning. I combine a finance background with strong analytical thinking to work across the full data lifecycle - from data collection and processing to analysis and modeling.
 
 I have hands-on experience working with real datasets, building ETL pipelines, performing exploratory data analysis, and developing basic machine learning models. I enjoy turning raw data into structured insights and supporting data-driven decision making.
 
